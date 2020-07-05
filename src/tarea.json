@@ -1,0 +1,32 @@
+{
+    "tareas":[
+        {
+            "title": "Tarea 1",
+            "responsible": "Mark",
+            "description": "Debo hacer esto",
+            "priority": "Baja"
+        },
+
+        {
+            "title": "Tarea 2",
+            "responsible": "Carl",
+            "description": "Tiene que realizar aquello",
+            "priority": "Media"
+        },
+
+        {
+            "title": "Tarea 3",
+            "responsible": "Brian",
+            "description": "Debe hacer aquello",
+            "priority": "Alta"
+        },
+
+        {
+            "title": "Tarea 4",
+            "responsible": "Jose",
+            "description": "Termina aquello",
+            "priority": "Alta"
+        }
+
+    ]
+}

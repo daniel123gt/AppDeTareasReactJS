@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AppDeTareasReactJS/static/css/main.e6175959.chunk.css",
+    "main.js": "/AppDeTareasReactJS/static/js/main.038f1fc6.chunk.js",
+    "main.js.map": "/AppDeTareasReactJS/static/js/main.038f1fc6.chunk.js.map",
+    "runtime-main.js": "/AppDeTareasReactJS/static/js/runtime-main.0c8cc9ea.js",
+    "runtime-main.js.map": "/AppDeTareasReactJS/static/js/runtime-main.0c8cc9ea.js.map",
+    "static/js/2.ef7382d0.chunk.js": "/AppDeTareasReactJS/static/js/2.ef7382d0.chunk.js",
+    "static/js/2.ef7382d0.chunk.js.map": "/AppDeTareasReactJS/static/js/2.ef7382d0.chunk.js.map",
+    "index.html": "/AppDeTareasReactJS/index.html",
+    "precache-manifest.403d44b79299a09039074db88a37eca0.js": "/AppDeTareasReactJS/precache-manifest.403d44b79299a09039074db88a37eca0.js",
+    "service-worker.js": "/AppDeTareasReactJS/service-worker.js",
+    "static/css/main.e6175959.chunk.css.map": "/AppDeTareasReactJS/static/css/main.e6175959.chunk.css.map",
+    "static/js/2.ef7382d0.chunk.js.LICENSE.txt": "/AppDeTareasReactJS/static/js/2.ef7382d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AppDeTareasReactJS/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.png": "/AppDeTareasReactJS/static/media/logo.5d993bff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8cc9ea.js",
+    "static/js/2.ef7382d0.chunk.js",
+    "static/css/main.e6175959.chunk.css",
+    "static/js/main.038f1fc6.chunk.js"
+  ]
+}
